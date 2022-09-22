@@ -1,0 +1,13 @@
+
+*.json
+*.cache
+*.dll
+*.pdb
+obj/Debug/net6.0/Calculator-csharp.GlobalUsings.g.cs
+obj/Debug/net6.0/Calculator-csharp.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/Calculator-csharp.csproj.FileListAbsolute.txt
+obj/Debug/net6.0/Calculator-csharp.AssemblyInfo.cs
+*.exe
+obj/Calculator-csharp.csproj.nuget.g.props
+obj/Calculator-csharp.csproj.nuget.g.targets
+obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
